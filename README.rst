@@ -5,10 +5,10 @@ Dogslow -- Django Slow Request Watchdog
 About this version
 ------------------
 
-This is a fork of ``dogslow``, the package name is ``ncbi-dogslow``.  The
-original package was by Erik van Zijst at Atlassian.  Some changes were made by
-Misha Denisenko at NCBI, and the package is currently maintained by a few
-people on the mailing list ``python-study@ncbi.nlm.nih.gov``.
+This is a fork of ``dogslow``.  The original package was by Erik van Zijst at
+Atlassian.  Some changes were made by Misha Denisenko and Thomas Smith at NCBI.
+The canonical version of this fork is available at
+https://github.com/tgs/dogslow .
 
 
 Overview
